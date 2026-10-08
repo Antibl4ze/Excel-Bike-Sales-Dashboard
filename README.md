@@ -2,6 +2,9 @@
 
 An interactive Excel dashboard built from survey data on bike buyers, showing who buys bikes and what affects the purchase.
 
+## Dashboard
+![Excel bike sales dashboard](images/bike-sales-dashboard.png)
+
 ## What I did
 - Cleaned the raw data: removed duplicates and standardised formats
 - Analysed purchases and buyer demographics with pivot tables and SUMIFS
